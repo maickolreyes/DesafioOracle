@@ -1,6 +1,11 @@
 # DesafioOracle
 Repositorio para el desafio summerup de oracle
 
+# Integrantes
+
+- Paulina Candia
+- Nicolás Sepúlveda
+- Maickol Reyes
 
 # Investigación de CiberAcoso
 
